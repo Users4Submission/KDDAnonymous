@@ -1,5 +1,5 @@
 # KDDAnonymous
-For Review
+For Review Only, we will clean and publish the code if accepted.
 
 ## To reproduce all results
 bash run.sh #parallel jobs can reproduce the ODDs results.\
